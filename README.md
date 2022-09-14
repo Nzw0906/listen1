@@ -4,7 +4,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
-[English Version](https://github.com/listen1/listen1_chrome_extension/blob/master/README_EN.md)
+[English Version]([https://github.com/listen1/listen1_chrome_extension/blob/master/README_EN.md](https://github.com/Nzw0906/listen1/blob/master/README_EN.md))
 
 ## 缘起
 
